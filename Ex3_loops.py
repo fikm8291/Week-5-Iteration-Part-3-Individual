@@ -148,7 +148,7 @@
 
 
 # -------------------------------------------
-# ADVANCED TASK: Combine Everything
+# ADVANCED ACTIVITY
 # -------------------------------------------
 # TODO:
 # 1. Ask the names of three friends and greet each using a loop.
